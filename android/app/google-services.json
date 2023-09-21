@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745458362769",
+    "project_id": "todolist-4b27e",
+    "storage_bucket": "todolist-4b27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745458362769:android:e8b2fa2ad6ca9f30b29230",
+        "android_client_info": {
+          "package_name": "com.codeforany.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tXApp7l55B6MRuAImAtvIEEAmJnM_Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
